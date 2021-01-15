@@ -14,24 +14,24 @@ Replace <API KEY> in .env file with your API KEY
   
 #1
 
-node part1.js
+node connect.js
 
 #2
 
-node part2.js
+node create_account.js
 
 Copy address and mnemonic from output of part2.js into .env
 
 #3
 
-node part3.js
+node query.js
 
 #4
 
 Get free testnet tokens: https://faucet.secrettestnet.io/
 
-node part4.js
+node transfer.js
 
 #5
 
-node part5.js
+node deploy2.js
