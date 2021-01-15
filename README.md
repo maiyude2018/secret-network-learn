@@ -2,7 +2,7 @@
 
 Learn Secret Network
 
-git clone https://github.com/ericet/secret-network-learn.git
+git clone https://github.com/maiyude2018/secret-network-learn.git
 
 cd secret-network-learn
 
